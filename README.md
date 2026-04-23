@@ -15,8 +15,3 @@
 - **AI-Research Assistant**
 - **Text Summarizer using T5 Small Transformer**
 
-## 📊 GitHub Stats
-[stats cards here]
-
-## 📫 Connect With Me
-[social badges]
