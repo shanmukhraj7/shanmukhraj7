@@ -6,7 +6,7 @@
 
 ## 🔧 About Me
 - 🌱 Currently working on Full Stack app which is basically a mixture of ML and Backend Engineering.
-- 💡 Ask me about Java and Java Backend, DSA, CP, Python and Python Backend
+- 💡 Ask me about Java and Java Backend, ML, Agentic AI, DSA, CP, Python and Python Backend
 - 🎯 Goal: Software Developer / ML Engineer / AI Engineer
 
 ## 🛠 Tech Stack
