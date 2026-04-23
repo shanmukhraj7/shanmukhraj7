@@ -5,16 +5,15 @@
 🚀 Software Developer | AIML Enthusiast | Competetive Programming
 
 ## 🔧 About Me
-- 🌱 Currently working on [your project]
-- 💡 Ask me about Java, HTML, DSA
-- 🎯 Goal: [your goal]
+- 🌱 Currently working on Full Stack app which is basically a mixture of ML and Backend Engineering.
+- 💡 Ask me about Java and Java Backend, DSA, CP, Python and Python Backend
+- 🎯 Goal: Software Developer / ML Engineer / AI Engineer
 
 ## 🛠 Tech Stack
-[badges here]
 
 ## 📌 Featured Projects
-- **Dynamic Memory Visualiser** – [description]
-- **Team Zephyrus Hackathon** – [description]
+- **AI-Research Assistant**
+- **Text Summarizer using T5 Small Transformer**
 
 ## 📊 GitHub Stats
 [stats cards here]
