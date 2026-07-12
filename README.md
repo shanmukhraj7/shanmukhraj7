@@ -1,1 +1,1 @@
-![Codeforces Card](https://codeforces-readme-stats.vercel.app/api/card?username=enigmaguy)
+![Codeforces Card](https://cp-insights-three.vercel.app/api/profile?handle=enigmaguy&theme=dark&heatmap=true&problemBarGraph=true)
